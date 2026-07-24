@@ -1,0 +1,9 @@
+<resources>
+    <color name="brand">#0F4C5C</color>
+    <color name="brand_dark">#08353F</color>
+    <color name="surface">#F4F7F6</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text">#172021</color>
+    <color name="muted">#5E6A6C</color>
+    <color name="accent">#E6A23C</color>
+</resources>
